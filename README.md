@@ -1,4 +1,12 @@
-# babylon_course
+# Babylon Playground
+
+Este es un repositorio de pruebas y experimentación con [Babylon.js](https://www.babylonjs.com/), un potente motor de renderizado 3D basado en WebGL.
+
+## 📌 Características
+
+- Entorno de pruebas para Babylon.js
+- Escenas interactivas en 3D
+- Uso de shaders, físicas y animaciones
 
 ## Project setup
 ```
